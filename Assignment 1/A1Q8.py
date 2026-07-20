@@ -1,0 +1,12 @@
+# WAP to copy the contents of file1.txt into file3.txt
+f1 = open("file1.txt", "w")
+f1.write("Hello, Jashobanta\n")
+f1.write("Python file")
+f1.close()
+f1 = open("file1.txt", "r")
+f2 = open("file3.txt", "w")
+data = f1.read()
+f2.write(data)
+f1.close()
+f2.close()
+print("Content copied successfully.")
