@@ -84,12 +84,12 @@ Total Amount   : 1000.0
 >>> 
 =================================================== RESTART: C:/Users/hites/OneDrive/Documents/DMDW Assingment/Assignment 1/A1Q10.py ===================================================
 Enter Employee ID: 101
-Enter Employee Name: Rajdeep
+Enter Employee Name: Googly
 Enter Basic Pay: 30000
 
 Employee Details
 Employee ID   : 101
-Employee Name : Rajdeep
+Employee Name : Googly
 Basic Pay     : 30000.0
 TA            : 3000.0
 DA            : 12000.0
