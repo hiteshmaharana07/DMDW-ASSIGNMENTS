@@ -1,12 +1,12 @@
 Python 3.14.3 (tags/v3.14.3:323c59a, Feb  3 2026, 16:04:56) [MSC v.1944 64 bit (AMD64)] on win32
 Enter "help" below or click "Help" above for more information.
 
-==================================================== RESTART: C:/Users/rajde/OneDrive/Documents/DMDW Assingment/Assignment 1/A1Q1.py ===================================================
+==================================================== RESTART: C:/Users/hites/OneDrive/Documents/DMDW Assingment/Assignment 1/A1Q1.py ===================================================
 Enter a string: Googly
 Actual String: Googly
 Reversed String: lygooG
 
-==================================================== RESTART: C:/Users/rajde/OneDrive/Documents/DMDW Assingment/Assignment 1/A1Q2.py ===================================================
+==================================================== RESTART: C:/Users/hites/OneDrive/Documents/DMDW Assingment/Assignment 1/A1Q2.py ===================================================
 (10, 20, 30, 40, 50)
 <class 'tuple'>
 10
@@ -15,31 +15,31 @@ Reversed String: lygooG
 40
 50
 
-==================================================== RESTART: C:/Users/rajde/OneDrive/Documents/DMDW Assingment/Assignment 1/A1Q3.py ===================================================
+==================================================== RESTART: C:/Users/hites/OneDrive/Documents/DMDW Assingment/Assignment 1/A1Q3.py ===================================================
 {'Apple': 1, 'Banana': 2, 'Orange': 3}
 <class 'dict'>
 Apple : 1
 Banana : 2
 Orange : 3
 
-==================================================== RESTART: C:/Users/rajde/OneDrive/Documents/DMDW Assingment/Assignment 1/A1Q4.py ===================================================
+==================================================== RESTART: C:/Users/hites/OneDrive/Documents/DMDW Assingment/Assignment 1/A1Q4.py ===================================================
 {1, 2, 3}
 <class 'set'>
 1
 2
 3
 
-==================================================== RESTART: C:/Users/rajde/OneDrive/Documents/DMDW Assingment/Assignment 1/A1Q5.py ===================================================
+==================================================== RESTART: C:/Users/hites/OneDrive/Documents/DMDW Assingment/Assignment 1/A1Q5.py ===================================================
 Enter value for a: 10
 Enter value for b: 20
 Enter value for c: 30
 30 is the greatest
 
-==================================================== RESTART: C:/Users/rajde/OneDrive/Documents/DMDW Assingment/Assignment 1/A1Q6.py ===================================================
+==================================================== RESTART: C:/Users/hites/OneDrive/Documents/DMDW Assingment/Assignment 1/A1Q6.py ===================================================
 Enter the number: 17
 It is a prime number
 
-==================================================== RESTART: C:/Users/rajde/OneDrive/Documents/DMDW Assingment/Assignment 1/A1Q7.py ===================================================
+==================================================== RESTART: C:/Users/hites/OneDrive/Documents/DMDW Assingment/Assignment 1/A1Q7.py ===================================================
 Enter the count: 10
 0
 1
@@ -52,10 +52,10 @@ Enter the count: 10
 21
 34
 >>> 
-==================================================== RESTART: C:/Users/rajde/OneDrive/Documents/DMDW Assingment/Assignment 1/A1Q8.py ===================================================
+==================================================== RESTART: C:/Users/hites/OneDrive/Documents/DMDW Assingment/Assignment 1/A1Q8.py ===================================================
 Content copied successfully.
 >>> 
-==================================================== RESTART: C:/Users/rajde/OneDrive/Documents/DMDW Assingment/Assignment 1/A1Q9.py ===================================================
+==================================================== RESTART: C:/Users/hites/OneDrive/Documents/DMDW Assingment/Assignment 1/A1Q9.py ===================================================
 
 Enter Product 1
 Enter the Product Number: 101
@@ -82,7 +82,7 @@ Cost           : 20.0
 Quantity       : 50
 Total Amount   : 1000.0
 >>> 
-=================================================== RESTART: C:/Users/rajde/OneDrive/Documents/DMDW Assingment/Assignment 1/A1Q10.py ===================================================
+=================================================== RESTART: C:/Users/hites/OneDrive/Documents/DMDW Assingment/Assignment 1/A1Q10.py ===================================================
 Enter Employee ID: 101
 Enter Employee Name: Rajdeep
 Enter Basic Pay: 30000
